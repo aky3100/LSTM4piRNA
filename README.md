@@ -1,2 +1,2 @@
 # LSTM4piRNA
-piRNAs analysis
+Efficient computational detection of piRNAs using LSTM Network
