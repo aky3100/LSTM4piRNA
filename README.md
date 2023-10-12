@@ -24,8 +24,8 @@ REDfold can be installed through the [wheel package](https://redfold.ee.ncyu.edu
 LSTM4piRNA can predict the RNA secondary structure with fasta-formatted RNA sequences.
 ```
 % lstm4pirna directory_containing_fasta_files
->D00002586
-GCUCGCGUGGCGUAAUGGCAACGCGUCUGACUUCUAAUCAGAAGAUUAUGGGUUCGACCCCCAUCGUGAGUG
+>PiRNA_Human 1.00001
+UGGAGAUGAAGUGCAAAGAAAUAAAGUGA
 
 ```
 
