@@ -2,7 +2,7 @@
 Efficient computational detection of piRNAs using LSTM Network. This repository contains the source code for LSTM4piRNA from the paper "LSTM4piRNA: Efficient piRNA Detection in Large-Scale Genome Databases using a Deep Learning-Based LSTM Network." Please cite the paper if you use our source code or data.
 
 ## Usage
-The users are welcome to use LSTM4piRNA webserver available at https://redfold.ee.ncyu.edu.tw for RNA structure prediction.
+The users are welcome to use LSTM4piRNA webserver available at https://lstm4pirna.ee.ncyu.edu.tw for RNA structure prediction.
 REDfold is implemented in Python code and the cross-platform compatible program can be installed through the [wheel package](https://lstm4pirna.ee.ncyu.edu.tw).
 It can predict the RNA secondary structure based on the RNA sequences.
 
@@ -15,9 +15,9 @@ It can predict the RNA secondary structure based on the RNA sequences.
  torch (>=1.9+cu111) 
 
 ### Installation
-REDfold can be installed through the [wheel package](https://redfold.ee.ncyu.edu.tw).
+LSTM4piRNA can be installed through the [wheel package](https://lstm4pirna.ee.ncyu.edu.tw).
 ```
-% pip install redfold-1.14a0-py2.py3-none-any.whl
+% pip install lstm4pirna-1.10b1-py2.py3-none-any.whl
 ```
 
 ### Test data
@@ -33,7 +33,7 @@ UGGAGAUGAAGUGCAAAGAAAUAAAGUGA
 ### Train model
 LSTM4piRNA can train the parameters with BPSEQ-formatted RNA sequences.
 ```
-% lstm4pirna -train directory_negative_files directory_positive_files
+% lstm4pirna -train directory_positive_files directory_negative_files
 ```
 
 ## Web Server
