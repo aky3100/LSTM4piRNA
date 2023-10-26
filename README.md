@@ -40,4 +40,4 @@ LSTM4piRNA can train the parameters with BPSEQ-formatted RNA sequences.
 LSTM4piRNA web server is available at https://lstm4pirna.ee.ncyu.edu.tw
 
 ## Reference
-Chun-Chi Chen, Yi-Ming Chan, and Hyundoo Jeong, ""LSTM4piRNA: Efficient piRNA Detection in Large-Scale Genome Databases using a Deep Learning-Based LSTM Network."
+Chun-Chi Chen, Yi-Ming Chan, and Hyundoo Jeong, "LSTM4piRNA: Efficient piRNA Detection in Large-Scale Genome Databases using a Deep Learning-Based LSTM Network."
