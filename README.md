@@ -17,7 +17,7 @@ It can predict the piRNA based on the RNA sequences.
 ### Installation
 LSTM4piRNA can be installed through the [wheel package](https://lstm4pirna.ee.ncyu.edu.tw).
 ```
-% pip install lstm4pirna-1.11a0-py2.py3-none-any.whl
+% pip install lstm4pirna-1.11a0-py2.py3.whl
 ```
 
 ### Test data
